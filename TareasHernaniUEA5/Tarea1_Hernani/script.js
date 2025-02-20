@@ -1,2 +1,4 @@
-console.log("aquí está la consola")
-window.alert("Awas, andas de tentón donde no, mi compa")
+console.log("Hola, JavaScript!!")
+
+//Ejercicio hecho en clase.
+// window.alert("Awas, andas de tentón donde no, mi compa")
