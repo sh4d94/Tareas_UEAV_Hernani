@@ -1,0 +1,17 @@
+body{
+    background-color: #dae270;
+}
+
+p {
+    color:rgb(102, 67, 131);
+    font-size: 60px;
+    text-align:center;
+}
+
+/*clase*/
+.body2{
+    background-color: #8fd9ce;
+}
+img{
+    width: 100%;
+}
