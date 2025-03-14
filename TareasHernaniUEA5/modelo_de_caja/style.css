@@ -1,0 +1,22 @@
+body{
+    background-color: #6c27ab;
+}
+
+p{
+    text-align: center;
+    color: #abab27;
+    font-size: 30px;
+}
+
+div{
+    background-color: #27a0ab;
+    color: #2e27ab;
+    margin: 25px 50px 75px 100px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border-style: double dotted;
+    border-color: #ffa200;
+    border-width: 10px;
+}
