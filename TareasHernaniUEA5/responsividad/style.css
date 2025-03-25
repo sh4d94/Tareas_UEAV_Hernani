@@ -1,0 +1,32 @@
+*{
+    color: #ffffff;
+    box-sizing: border-box;
+}
+.derecha{
+    background-color: #f2c1fc; 
+    font-size: 50px; 
+   padding: 10px;
+    float: left; 
+    width: 33%;
+}
+.centro{
+    background-color: #d18fde; 
+    font-size: 55px; 
+    padding: 15px;
+    float: left; 
+    width: 34%;
+}
+.izquierda{
+    background-color: #843693; 
+    font-size: 60px; 
+    padding: 20px; 
+    float: left; 
+    width: 33%;
+}
+@media screen and (max-Width:800px){
+    .izquierda, .centro, .derecha{
+        width: 100%;
+    }
+}
+
+/*(fl + enter) para colocar el float*/
